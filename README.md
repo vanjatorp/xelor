@@ -411,7 +411,7 @@ Python Code must pass through the **[PEP8 Validator](http://pep8online.com/ "PEP
 <br>
 
 ### **Project Creation**
-Navigate to the **[template](https://github.com/Code-Institute-Org/gitpod-full-template)** and click 'Use this template. Put in Repository name (velour) and check the Include all branches checkbox. Then navigate to the new **[repository](https://github.com/VTwin90/xelor)**.
+Navigate to the **[template](https://github.com/Code-Institute-Org/gitpod-full-template)** and click 'Use this template. Put in Repository name (velour) and check the Include all branches checkbox. Then navigate to the new **[repository](https://github.com/vanjatorp/xelor)**.
 
 The following commands were used for version control throughout the project:
 + ```git status``` (checks which files have been modified or added, and ready to be committed)
@@ -492,7 +492,7 @@ The live link for the site is here: previous **[xelor-watches.herokuapp.com/](xe
 This project uses the AWS S3 bucket to host the static and media files. To host them you will need an account and create an S3 bucket and set a group, policy, and user in the IAM environment.
 
 ### **Create a local clone**
-1. Open GitHub and navigate to the repository **[here](https://github.com/VTwin90/xelor)**.
+1. Open GitHub and navigate to the repository **[here](https://github.com/vanjatorp/xelor)**.
 2. Click the Code drop-down menu. 
 3. Options: 
 * Download the ZIP file, unpack locally and open with IDE.  
@@ -507,7 +507,7 @@ Once the project has been loaded into an IDE of choice, run the following comman
 
 ### **Fork Project**
 
-1. Navigate to the GitHub Repository you want to **[fork](https://github.com/VTwin90/xelor)**.
+1. Navigate to the GitHub Repository you want to **[fork](https://github.com/vanjatorp/xelor)**.
 2. On the top right of the page under the header, click the fork button.
 3. Creates a duplicate of the full project in your GitHub Repository.
 
